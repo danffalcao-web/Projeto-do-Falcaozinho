@@ -1,0 +1,6 @@
+print("Oi, eu sou o Danilo")
+print("Jogo do cachorrinho é muito difícil")
+print("1234")
+print("123.4")
+print(True)    
+print(1000*1000)
